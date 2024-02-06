@@ -1,7 +1,8 @@
-# Algorithmic Computing Club UTD
-Test your strength with our weekly leetcode practices!
+<img width="250" alt="image" src="https://github.com/Aarian-A/algorithmic-computing-club-utd/assets/44757353/57393cc7-3264-40fe-b93b-d124d1158a9f">
 
-<img width="122" alt="image" src="https://github.com/joseee-molina/algorithmic-computing-club-utd/assets/44757353/bcbfb88d-adf6-4bcb-b6f4-3642787f08c0">
+# Algorithmic Computing Club UTD
+Test your strength with our weekly leet code practices!
+
 
 Below is a list of the problems and corresponding solutions 
 
